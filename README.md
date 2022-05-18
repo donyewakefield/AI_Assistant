@@ -4,7 +4,7 @@ An AI assistant (similar to that of Alexa, Siri, etc.) that uses voice recogniti
 
 ## Languages and Tools
 * `python`
-* `speech_recognition lib`
+* `speech_recognition`
 * `pyttsx3 (text-to-speech lib)`
 * `selenium`
 * `os`
