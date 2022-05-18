@@ -9,6 +9,22 @@ An AI assistant (similar to that of Alexa, Siri, etc.) that uses voice recogniti
 * `selenium`
 * `os`
 
+## Features
+* search and play youtube video
+* give current time
+* search up any website
+* do basic math
+* shop at a particular website
+* give current weather
+* tell jokes
+* tell stories
+* create word doc
+* create directory
+* open up file/application
+* shutdown computer
+* restart computer
+
+
 
 ![ai pic2](https://user-images.githubusercontent.com/71467135/168946693-55535fd0-6012-4271-a9a1-695d7abd9702.png)
 
